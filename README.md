@@ -58,13 +58,7 @@ javac src/*.java
 4. Run
 java -cp src Main
 
-🧠 Example Output
-   Birthday Reminder
-1. Add Birthday
-2. Show All Birthdays
-3. Show Today's Birthdays
-4. Show Upcoming Birthdays
-5. Save & Exit
+
 Choose:
 
 📝 File Format (birthdays.txt)
