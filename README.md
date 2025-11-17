@@ -53,7 +53,7 @@ File Handling (I/O)
 
 🚀 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/Yuvaraj-Viswanathan/birthday-reminder-app-java/Birthday-Reminder-App-Java.git
+git clone https://github.com/Yuvaraj-Viswanathan/birthday-reminder-app-java.git
 
 2. Navigate to the folder
 ```
