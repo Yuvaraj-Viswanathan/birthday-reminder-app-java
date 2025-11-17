@@ -1,38 +1,38 @@
-# birthday-reminder-app-java
-🎉 Birthday Reminder App (Java – Console Based)
+
+## Birthday Reminder App (Java – Console Based) ##
 
 A simple and clean Java console application that helps you store, view, and manage birthday reminders.
 This project demonstrates:
 
-Object-Oriented Programming
+1. Object-Oriented Programming
 
-Java Collections
+2. Java Collections
 
-Java Date & Time API
+3. Java Date & Time API
 
-File I/O
+4. File I/O
 
-Sorting & Filtering
+5. Sorting & Filtering
 
-Clean Project Structure
+6. Clean Project Structure
 
-⭐ Features
+## Features
 
-✔ Add a birthday (name + date)
+Add a birthday (name + date)
 
-✔ View all saved birthdays
+View all saved birthdays
 
-✔ Show today’s birthdays
+Show today’s birthdays
 
-✔ Show upcoming birthdays
+Show upcoming birthdays
 
-✔ Auto-sorting by date
+Auto-sorting by date
 
-✔ Save & load birthdays from file
+Save & load birthdays from file
 
-✔ Lightweight and beginner-friendly
+Lightweight and beginner-friendly
 
-📁 Project Structure
+## Project Structure
 ```
 src/
 │── Birthday.java
@@ -41,7 +41,7 @@ src/
 birthdays.txt    (auto-created when saving)
 README.md
 ```
-🛠️ Technologies Used
+## Technologies Used
 
 Java 8+
 
@@ -51,7 +51,7 @@ Local Date API
 
 File Handling (I/O)
 
-🚀 How to Run the Project
+## How to Run the Project
 1. Clone the Repository
 git clone https://github.com/Yuvaraj-Viswanathan/birthday-reminder-app-java.git
 
@@ -73,7 +73,7 @@ java -cp src Main
 
 Choose:
 
-📝 File Format (birthdays.txt)
+File Format (birthdays.txt)
 
 Each line is stored as:
 
@@ -82,11 +82,11 @@ Name,YYYY-MM-DD
 
 Example:
 
-Keerthana,2003-09-18
+Prasanna,2008-09-18
 
 Yuvaraj,2005-11-05
 
-📌 Future Improvements (Optional)
+## Future Improvements (Optional)
 
 Edit/Delete a birthday
 
@@ -98,11 +98,11 @@ Email or SMS reminders
 
 Export to CSV
 
-🤝 Contributing
+## Contribution
 
 Pull requests are welcome!
 For major changes, please open an issue first to discuss the changes.
 
-📄 License
+## License
 
 This project is open-source and available under the MIT License.
