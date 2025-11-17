@@ -47,7 +47,7 @@ Java 8+
 
 Collections Framework
 
-LocalDate API
+Local Date API
 
 File Handling (I/O)
 
@@ -56,13 +56,19 @@ File Handling (I/O)
 git clone https://github.com/your-username/Birthday-Reminder-App-Java.git
 
 2. Navigate to the folder
+```
 cd Birthday-Reminder-App-Java
+```
 
-3. Compile
+4. Compile
+```
 javac src/*.java
+```
 
-4. Run
+6. Run
+```
 java -cp src Main
+```
 
 
 Choose:
