@@ -19,11 +19,17 @@ Clean Project Structure
 ⭐ Features
 
 ✔ Add a birthday (name + date)
+
 ✔ View all saved birthdays
+
 ✔ Show today’s birthdays
+
 ✔ Show upcoming birthdays
+
 ✔ Auto-sorting by date
+
 ✔ Save & load birthdays from file
+
 ✔ Lightweight and beginner-friendly
 
 📁 Project Structure
